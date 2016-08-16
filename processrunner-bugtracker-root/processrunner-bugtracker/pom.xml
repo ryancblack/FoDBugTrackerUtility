@@ -16,6 +16,10 @@
 		</dependency>
 		<dependency>
 			<groupId>com.fortify.processrunner.bugtracker</groupId>
+			<artifactId>processrunner-bugtracker-tfs</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.fortify.processrunner.bugtracker</groupId>
 			<artifactId>processrunner-bugtracker-jira</artifactId>
 		</dependency>
 		<dependency>
